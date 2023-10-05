@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h1 align="center">Hi 👋, I'm siresire  </h1> 
+<h1 align="center">Hi 👋, I'm siresire</h1> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <h3 align="center">DevSec</h3>
 
   <div id="header" align="center">

@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-    <h1>Hi 👋, I'm siresire</h1>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</div>
+<h1 align="center">Hi 👋, I'm siresire</h1> 
+
 
 <h3 align="center">DevSec</h3>
 
@@ -15,9 +13,9 @@
 
 - 📫 How to reach me **godfreybosire000@gmail.com**
 
-- ⚡ Fun fact **I know nothing so don’t question me**
+- ⚡ Fun fact **I know nothing so don’t question me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

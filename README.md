@@ -2,7 +2,9 @@
 <h3 align="center">DevSec</h3>
 
 - 🔭 I’m currently working on [Chatl.y](https://github.com/siresire/Chatl.y)
-
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 - 💬 Ask me about **DevSec**
 
 - 📫 How to reach me **godfreybosire000@gmail.com**

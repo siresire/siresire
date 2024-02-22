@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DevSec**
 
-- 📫 How to reach me **godfreybosire000@gmail.com**
+- 📫 How to reach me # **...**
 
 - ⚡ Fun fact **I know nothing so don’t question me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
 

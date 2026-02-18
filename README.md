@@ -1,46 +1,54 @@
 <h1 align="center">Hi 👋, I'm siresire</h1>
-<h3 align="center">Security Analyst • Network Security • Detection & Response</h3>
+<h3 align="center">Security Analyst • Network Security • Malware Analysis • CTF</h3>
 
 <p align="center">
-  I build practical security projects and labs focused on network monitoring, detection, and hardening.
+ I coming up with a practical security projects and labs focused on network monitoring, detection, and hardening.
 </p>
 
 ---
 
-## 🚀 Current Focus (Main Project)
-### 🔐 Network Security Project
-- Building a hands-on **Network Security** project around traffic analysis, detections, and secure configurations.
-- Repo: **[Network Security Project →](https://siresire.github.io/posts/Packet-sniffing-&-Spoofing/)**
+## 🚀 Pinned: Current Project
+### 🔐 Network Security (Active)
+I’m currently working on a **Network Security** project focused on:
+- Traffic analysis (PCAPs) + packet inspection  
+- Network monitoring + detections  
+- Practical notes + scripts + repeatable lab steps  
 
-
----
-
-## 🧩 What I work on
-- Packet capture + analysis (PCAPs)
-- Network visibility + detections (rules / alerts)
-- Vulnerability scanning + fix verification
-- Linux security + basic hardening
-- Log analysis + incident response basics
+➡️ - Repo: **[Network Security Project →](https://github.com/siresire/Network-Security)**
 
 ---
 
-## 🛠️ Tools I use
-**Linux • Python • Bash • Wireshark • Nmap • tcpdump • SIEM basics • Docker**
+## 🧠 What I do
+- Network security (monitoring, analysis, detections)
+- Malware analysis + forensics (memory, docs, PDFs)
+- Web security labs + attack/defense learning
+- CTFs (learning-by-doing + writeups)
 
 ---
 
-## 📌 Featured Projects
-- **Network Security Project** → [https://github.com/siresire/NETWORK_SECURITY_REPO  ](https://siresire.github.io/posts/Packet-sniffing-&-Spoofing/)
-- **Security Labs / Writeups** → https://github.com/siresire/SECURITY_LABS_REPO  
-- **Scripts / Tools** → https://github.com/siresire/SECURITY_SCRIPTS_REPO  
+## ✍️ Writeups (Portfolio)
+I post reports and walkthrough-style notes on my site:
+- https://siresire.github.io/
 
-(Replace the repo names with your real ones — keep it to 2–3 max so it stays clean.)
+---
+
+## 🛠️ Tools I use often
+**Linux • Python • Bash • Wireshark • tcpdump • Nmap • Burp • Docker • Scapy • Volatility**
 
 ---
 
 ## 📫 Contact
-- Email: **your-email-here**
-- LinkedIn: **your-link-here**
+- Email: **godfreybosire000@gmail.com**
+- **[LinkedIn](https://www.linkedin.com/in/godfrey-bosire-694458212/)**
+
+---
+
+<details>
+<summary><b>🏷️ Tags / Topics</b> (from my writeups)</summary>
+
+.NET • AD • Ansible • API • ASREPRoasting • Basics • Box-Js • burp • C2 • CI • clamscan • Computer Security • curl • CVE • CVE-2024-21413 • CyberChef • Cybersecurity • Docker • enum4linux • gpg2john • hashca • Impacket • JavaScript • john • LFI • linux • Linux • Malware • moodle • mysql • nc • Networking • NFS • nmap • NTDS.DIT • NTLM • oledump • oleid • olevba • passpie • PDF • pdf-parser.py • pdfid.py • pdfkit • peepdf • PEStudio • PEview • php • Pivoting • PowerShell • python • Python • RDP • Red Teaming • redis • Ruby • Scapy • SMBClient • SQL • sqlmap • sshuttle • SSTI • TCM • Tcpdump • VIM • Virtulization • vmonkey • volatility 2 • Volatility 3 • WebShell • Windows • Wireshark • Wordpress • X11 • xfreerdp • XSS
+
+</details>
 
 ---
 

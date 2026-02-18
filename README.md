@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm siresire</h1> 
+<h1 align="center">Hi 👋, I'm Godfrey Bosire (siresire)</h1>
+<h3 align="center">Network Security • Cybersecurity (Defensive) • Vulnerability Management</h3>
 
-
-<h3 align="center">DevSec</h3>
-
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-- 🔭 I’m currently working on [Chatl.y](https://github.com/siresire/Chatl.y)
-
-- 💬 Ask me about **DevSec**
-
-- 📫 How to reach me # **...**
-
-- ⚡ Fun fact **I know nothing so don’t question me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
-
-
-<p align="left">
+<p align="center">
+  M.S. Cybersecurity student focused on protecting systems, finding vulnerabilities, and responding to threats. :contentReference[oaicite:1]{index=1}
 </p>
 
-## Languages and Tools:
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-   
+### 🔎 Current Focus
+- Network security labs (packet analysis, firewall/security controls, IDS/IPS)
+- Vulnerability scanning + remediation tracking
+- SIEM basics + incident response fundamentals :contentReference[oaicite:2]{index=2}
 
+> **Note:** I’m not actively working on my previous project right now — currently focused on **Network Security**.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
+### 🧾 Certifications / Training
+- **CompTIA Security+** (Earned **Jan 30, 2026**) :contentReference[oaicite:3]{index=3}  
+- **Cisco CCNA** (In progress) :contentReference[oaicite:4]{index=4}  
+- Cloud Security Program (USIU-Africa) :contentReference[oaicite:5]{index=5}  
+
+---
+
+### 💼 Experience Highlights
+- **Kenya Law Reporting (Intern)**: Metabase reporting/analytics, flagged anomalies in security logs; ran **Nessus/OpenVAS** scans, tracked findings, verified patches. :contentReference[oaicite:6]{index=6}  
+- **IT Support (Soteni International)**: hands-on support + staff training; maintained company website (HTML/CSS/JS). :contentReference[oaicite:7]{index=7}  
+
+---
+
+### 🧪 Labs / Projects
+- Built a **virtual home lab** and small security tools; used **Raspberry Pi** devices for a home NAS/server for file/data management. :contentReference[oaicite:8]{index=8}  
+- Participated in **CTFs** and contributed fixes/updates to open-source security projects; shared work on GitHub Pages. :contentReference[oaicite:9]{index=9}  
+
+---
+
+### 🧰 Tools & Skills (Core)
+Networking • Linux/Windows admin • Firewalls & security controls • IDS/IPS • Endpoint Security/EDR • Vulnerability Scanning • SIEM basics • Incident Response • Virtualization/Containers • Python/Bash :contentReference[oaicite:10]{index=10}
+
+---
+
+### 📫 Contact
+- Email: **godfreybosire000@gmail.com** :contentReference[oaicite:11]{index=11}  
+- Location: **Carbondale, IL** :contentReference[oaicite:12]{index=12}  
+- LinkedIn: *(add your link)*
+- GitHub Pages: *(add your link)*
+
+---
+
+### 🔥 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siresire&theme=dark&background=000000)](https://git.io/streak-stats)

@@ -37,12 +37,6 @@ I post reports and walkthrough-style notes on my site:
 
 ---
 
-## 📫 Contact
-- Email: **godfreybosire000@gmail.com**
-- **[LinkedIn](https://www.linkedin.com/in/godfrey-bosire-694458212/)**
-
----
-
 <details>
 <summary><b>🏷️ Tags / Topics</b> (from my writeups)</summary>
 

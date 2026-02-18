@@ -10,9 +10,8 @@
 ## 🚀 Current Focus (Main Project)
 ### 🔐 Network Security Project
 - Building a hands-on **Network Security** project around traffic analysis, detections, and secure configurations.
-- Repo: **[Network Security Project →](https://github.com/siresire/NETWORK_SECURITY_REPO)**
+- Repo: **[Network Security Project →](https://siresire.github.io/posts/Packet-sniffing-&-Spoofing/)**
 
-> Replace `NETWORK_SECURITY_REPO` with your actual repo name (the one you want recruiters to click first).
 
 ---
 
@@ -31,7 +30,7 @@
 ---
 
 ## 📌 Featured Projects
-- **Network Security Project** → https://github.com/siresire/NETWORK_SECURITY_REPO  
+- **Network Security Project** → [https://github.com/siresire/NETWORK_SECURITY_REPO  ](https://siresire.github.io/posts/Packet-sniffing-&-Spoofing/)
 - **Security Labs / Writeups** → https://github.com/siresire/SECURITY_LABS_REPO  
 - **Scripts / Tools** → https://github.com/siresire/SECURITY_SCRIPTS_REPO  
 
